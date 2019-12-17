@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Hello!"
+    "string": "this is not hello"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 33,
+    "width": 89,
     "x": 343,
     "y": 115
   },
-  "glyphBounds": "{{1, 1}, {31, 10}}",
+  "glyphBounds": "{{0, 1}, {88, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Hello!",
+  "name": "this is not hello",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
