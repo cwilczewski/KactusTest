@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -60,6 +60,10 @@
     {
       "class": "text",
       "id": "116E8DE1-F338-48EB-BAD3-EAE9555E9ABC"
+    },
+    {
+      "class": "rectangle",
+      "id": "8918610B-6264-4926-BB0E-639012AE3C36"
     }
   ],
   "maintainScrollPosition": false,
